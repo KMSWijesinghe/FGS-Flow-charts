@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Page-1" id="6wNESkmxCDVmci2WbdCj">
-    <mxGraphModel dx="1717" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="FoM Documents" id="6wNESkmxCDVmci2WbdCj">
+    <mxGraphModel dx="2060" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -272,6 +272,438 @@
         </mxCell>
         <mxCell id="1Q3BbmZfCF-iyb44di0z-79" edge="1" parent="1" source="1Q3BbmZfCF-iyb44di0z-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1Q3BbmZfCF-iyb44di0z-35">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="FoS Documents" id="B5Qwvxi95xP2HDgoJILd">
+    <mxGraphModel dx="2060" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-0" />
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-1" parent="_wYoJ0nNpfKgv2rzbIfQ-0" />
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-2" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-3" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;List of Publications&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="130" x="30" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-4" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-5" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Birth Certificate - Original Copy&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="130" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-6" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-7" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Research Proposal&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="130" x="30" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-8" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-9" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Consent of the Supervisors &amp;amp; HoD - Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="130" x="30" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-10" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-11" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Academic Certificates&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="130" x="30" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-12" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-13" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Application for MPhil Degree&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="130" x="30" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-14" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-15" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Research Proposal Presentation Meeting Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="130" x="30" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-16" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-17" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Mphil Application&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="130" x="30" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-18" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1035" />
+              <mxPoint x="200" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-19" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Bank Deposit - receipt&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="140" x="25" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-20" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-21" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Text Similarity Check - urkund&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="140" x="285" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-22" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-23" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Review Report form for Research proposal Presentation&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="140" x="285" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-24" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-25" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Payment Schedule Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="140" x="285" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-26" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-27" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Payment Voucher&lt;br&gt;&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="140" x="285" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-28" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-29" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: Arial; font-style: normal;&quot; data-sheets-root=&quot;1&quot;&gt;Informing Registration to the candidate approved by the&lt;br&gt;presentation panel letter and mention fees&lt;br&gt;SAR-FGS&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="215" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-30" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-31" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Birth Certificate - Original Copy&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="140" x="285" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-32" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-33" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Identy card Front and back photo copy&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="140" x="285" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-34" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="1025" />
+              <mxPoint x="510" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-35" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Academic Certificates&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="275" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-36" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-37" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Paying In Voucher&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="560" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-38" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-39" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Confirmation of registration through the&lt;br&gt;Information System Management Letter. SAR-FGS&lt;br&gt;Assign Registration Number to the candidate.&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="220" x="530" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-40" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="440" />
+              <mxPoint x="640" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-41" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Supervisors Appointment Letters&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="150" x="565" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-42" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-43" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Review Report form for Research proposal Presentation&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="150" x="565" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-44" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-45" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Research Proposal&lt;br&gt;&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="560" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-46" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-47" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Certified Academic Certificates&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="560" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-48" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-49" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;List of Publications&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="560" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-50" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-51" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Consent of the Supervisors &amp;amp; HoD - Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="830" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-52" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-53" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Mphyl Degree Application form&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="830" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-54" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-55" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Research Proposal presentation Members Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="830" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-56" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-57" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Payment Receipt&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="65" width="160" x="830" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-58" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-59" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Supervisors Appointment Letters&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="830" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-60" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Student Acknowledgement letter about instruction letter&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="830" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-61" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-62" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Progress Report Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="160" x="830" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-63" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-64" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Meeting minute document that approved progress report&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="210" x="1090" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-65" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-66" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Progress Report Approved letter to candidate - SAR - FGS&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="210" x="1090" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-67" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-68" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Research topic Change requesting Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1115" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-69" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-70" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Research Proposal&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="160" x="1115" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-71" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-72" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Request for Excemption Progress presentation 1 Letter to fgs&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="210" x="1090" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-73" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-74" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Payment receipt&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="160" x="1115" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-75" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-76" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Approved letter for Exemption&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1115" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-77" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-78" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Thesis Submission mail&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1380" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-79" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-80" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Notification of MPhil Thesis Submission&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1380" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-81" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-82" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Appointment letters For Examiners appointment&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1380" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-83" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-84" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Examiners awareness emails&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1380" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-85" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-86" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Payment Receipt&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1380" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-87" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_wYoJ0nNpfKgv2rzbIfQ-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-88" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Appointment letters For Examiners appointment&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1380" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-13" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-89" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;FGS Meeting approved Document that thesis submission&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1380" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="_wYoJ0nNpfKgv2rzbIfQ-90" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="_wYoJ0nNpfKgv2rzbIfQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_wYoJ0nNpfKgv2rzbIfQ-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-0" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Progress Presentation Application Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1710" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-2" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-3" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Review Report form for the Progress presentation&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1710" y="217.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-4" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-5" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Payment schedule Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1710" y="377.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-6" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-7" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Payment Voucher&lt;br&gt;&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1710" y="537.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-8" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-9" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Request for Topic change Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1710" y="697.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-10" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="96NJAPeQtDgCOAn1phAj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-11" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Progress Report 02&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="1710" y="857.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-33" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-12" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Examiners Appointment letter for the MPhil degree Examination&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="240" x="1670" y="1007.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-20" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-21" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Request for evaluation of thesis Mail&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2090" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-22" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-23" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Payment Voucher&lt;br&gt;&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2090" y="217.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-24" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-25" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Requesting for thesis submission confirmation letter - gmail&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2090" y="377.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-26" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-27" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Thesis submission confirmation letter&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2090" y="537.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-28" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-29" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Payment voucher for Examiners&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2090" y="697.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-30" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="96NJAPeQtDgCOAn1phAj-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-31" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Topic change requesting document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2090" y="857.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-47" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-32" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Topic change approval meeting minute Document&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="240" x="2050" y="1007.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-34" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-35" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Topic change approval letter&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2490" y="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-36" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-37" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Marksheet for Examination Thesis&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2490" y="223.75" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-38" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-39" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Marksheet for Examination Thesis and narrative report&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2490" y="383.75" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-40" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-41" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Viva voce Examination Informing Letter to candidate&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2490" y="543.75" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-42" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="96NJAPeQtDgCOAn1phAj-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-43" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Marksheet for Examination Thesis&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="160" x="2490" y="703.75" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-44" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="96NJAPeQtDgCOAn1phAj-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-45" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Document to be handover after viva voce exam" vertex="1">
+          <mxGeometry height="90" width="160" x="2490" y="863.75" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-46" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot; data-sheets-root=&quot;1&quot;&gt;Progress Report - 03&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="90" width="240" x="2450" y="1013.75" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-48" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="96NJAPeQtDgCOAn1phAj-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2570" y="1103.75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-51" edge="1" parent="_wYoJ0nNpfKgv2rzbIfQ-1" source="96NJAPeQtDgCOAn1phAj-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="96NJAPeQtDgCOAn1phAj-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-49" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span data-sheets-root=&quot;1&quot; style=&quot;color: rgb(0, 0, 0); text-align: start; font-size: 10pt; font-family: Arial;&quot;&gt;Progress Report - 04&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="2450" y="1163.5" as="geometry" />
+        </mxCell>
+        <mxCell id="96NJAPeQtDgCOAn1phAj-50" parent="_wYoJ0nNpfKgv2rzbIfQ-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span data-sheets-root=&quot;1&quot; style=&quot;color: rgb(0, 0, 0); text-align: start; font-size: 10pt; font-family: Arial;&quot;&gt;Finale Result Sheet&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="2450" y="1333.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
